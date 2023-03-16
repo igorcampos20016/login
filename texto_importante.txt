@@ -1,0 +1,6 @@
+
+console.log("segue o completo do projeto")
+
+
+ls
+
